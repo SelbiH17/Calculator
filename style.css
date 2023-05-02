@@ -1,0 +1,48 @@
+#hesapmakinesi{
+    margin: 0 auto;
+    height: auto;
+    width: 400px;
+    background-color: rgb(172, 156, 172);
+    border: 2px solid;
+    border-radius: 10px;
+    box-shadow: 0px 0px 17px -2px rgba(0,0,0,0.75);
+    padding: 10px;
+}
+
+#gosterge{
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+
+#sonuc{
+  border: 2px solid;
+  padding: 10px;
+  border-radius: 10px;
+ box-shadow: 0px 0px 17px -3px rgb(7, 102, 36);
+  width: 250px;
+  text-align: right;
+  word-wrap: break-word;
+  font-size: 40px;
+}
+
+
+#buttonlar{
+    text-align: center;
+}
+
+
+button{
+    width: 80px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 10px;
+    background-color: rgb(247, 241, 241);
+    box-shadow: 0px 0px 17px -2px rgb(29, 31, 29);  
+    outline: none;
+    font-size: 25px;
+    
+}
+
+
+
